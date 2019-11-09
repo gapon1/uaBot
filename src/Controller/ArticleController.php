@@ -6,7 +6,6 @@ namespace App\Controller;
 
 use App\Service\MarkdownHelper;
 use App\Service\SlackClient;
-use Nexy\Slack\Client;
 use Psr\Log\LoggerInterface;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
